@@ -1,9 +1,12 @@
 import "./App.css";
+import Body from "./Components/Body";
+
+
 
 function App() {
   return (
     <div>
-      <h1 className="bg-gray-500">hello react</h1>
+    <Body/>
     </div>
   );
 }
